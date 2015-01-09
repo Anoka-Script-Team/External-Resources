@@ -1,0 +1,26 @@
+c:\users\rkcary\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.exe.config
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.exe.manifest
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.application
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.exe
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.pdb
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\External Resources.xml
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ExternalResources.Form1.resources
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ExternalResources.Resources.resources
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\External Resources.exe.manifest
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\External Resources.application
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\External Resources.exe
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\External Resources.pdb
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\Builds\External Resources.exe.config
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\Builds\External Resources.exe.manifest
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\Builds\External Resources.application
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\Builds\External Resources.exe
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\Builds\External Resources.pdb
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\External Resources.exe
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\External Resources.pdb
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\ExternalResources.Resources.resources
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\External Resources.exe.manifest
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\External Resources.application
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\ExternalResources.CS_form.resources
+C:\Users\rkcary\Documents\Visual Studio 2013\Projects\External Resources\WindowsApplication1\obj\Debug\ExternalResources.PA_form.resources
