@@ -59,7 +59,7 @@
     End Sub
 
     Private Sub LinkLabel14_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles Case_transfer_email_link.LinkClicked
-        System.Diagnostics.Process.Start("L:\Email Templates\Case Transfer Request.msg")
+        System.Diagnostics.Process.Start("L:\Email Templates\Case Transfer Request.oft")
         Application.Exit()
     End Sub
 
@@ -101,7 +101,7 @@
     End Sub
 
     Private Sub LinkLabel15_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles ACCAP_resource_guide_link.LinkClicked
-        System.Diagnostics.Process.Start("http://www.accap.org/file/ResourceGuide/Web%20RG/Anoka%20County%20Resource%20Guide%20Vol%2012%202012-2014%20New%20final.pdf")
+        System.Diagnostics.Process.Start("http://www.accap.org/Documents/Resource_Guide/AnokaCountyResourceGuideVol-13-2014-2016.pdf")
         Application.Exit()
     End Sub
 
