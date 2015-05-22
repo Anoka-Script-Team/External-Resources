@@ -42,3 +42,17 @@ C:\Users\vkcary\Documents\GitHub\External-Resources\Builds\External Resources.ex
 C:\Users\vkcary\Documents\GitHub\External-Resources\Builds\External Resources.pdb
 C:\Users\vkcary\Documents\GitHub\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.exe.manifest
 C:\Users\vkcary\Documents\GitHub\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.application
+C:\External-Resources\Builds\External Resources.exe.config
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.exe
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.pdb
+C:\External-Resources\Builds\External Resources.exe.manifest
+C:\External-Resources\Builds\External Resources.application
+C:\External-Resources\Builds\External Resources.exe
+C:\External-Resources\Builds\External Resources.pdb
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.vbprojResolveAssemblyReference.cache
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\ExternalResources.CS_form.resources
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\ExternalResources.PA_form.resources
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\ExternalResources.Resources.resources
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.vbproj.GenerateResource.Cache
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.exe.manifest
+C:\External-Resources\External Resources\WindowsApplication1\obj\Debug\External Resources.application

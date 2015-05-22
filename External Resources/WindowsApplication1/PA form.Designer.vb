@@ -296,10 +296,10 @@ Partial Class PA_form
         Me.HS_Apps_link.AutoSize = True
         Me.HS_Apps_link.Location = New System.Drawing.Point(13, 99)
         Me.HS_Apps_link.Name = "HS_Apps_link"
-        Me.HS_Apps_link.Size = New System.Drawing.Size(182, 13)
+        Me.HS_Apps_link.Size = New System.Drawing.Size(121, 13)
         Me.HS_Apps_link.TabIndex = 9
         Me.HS_Apps_link.TabStop = True
-        Me.HS_Apps_link.Text = "HS-Apps (ScoreSheet/SSA/Probate)"
+        Me.HS_Apps_link.Text = "HS-Apps (SSA/Probate)"
         '
         'Property_records_link
         '
